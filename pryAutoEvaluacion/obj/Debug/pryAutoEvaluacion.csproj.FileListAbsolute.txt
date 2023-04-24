@@ -1,0 +1,11 @@
+D:\Escritorio\pryAutoEvaluacion\bin\Debug\pryAutoEvaluacion.exe.config
+D:\Escritorio\pryAutoEvaluacion\bin\Debug\pryAutoEvaluacion.exe
+D:\Escritorio\pryAutoEvaluacion\bin\Debug\pryAutoEvaluacion.pdb
+D:\Escritorio\pryAutoEvaluacion\obj\Debug\pryAutoEvaluacion.csproj.AssemblyReference.cache
+D:\Escritorio\pryAutoEvaluacion\obj\Debug\pryAutoEvaluacion.csproj.SuggestedBindingRedirects.cache
+D:\Escritorio\pryAutoEvaluacion\obj\Debug\pryAutoEvaluacion.frmPrincipal.resources
+D:\Escritorio\pryAutoEvaluacion\obj\Debug\pryAutoEvaluacion.Properties.Resources.resources
+D:\Escritorio\pryAutoEvaluacion\obj\Debug\pryAutoEvaluacion.csproj.GenerateResource.cache
+D:\Escritorio\pryAutoEvaluacion\obj\Debug\pryAutoEvaluacion.csproj.CoreCompileInputs.cache
+D:\Escritorio\pryAutoEvaluacion\obj\Debug\pryAutoEvaluacion.exe
+D:\Escritorio\pryAutoEvaluacion\obj\Debug\pryAutoEvaluacion.pdb
